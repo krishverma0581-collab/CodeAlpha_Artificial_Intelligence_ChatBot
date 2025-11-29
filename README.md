@@ -29,4 +29,9 @@ Bot: hii there, I am candis, your java learning chatbot.
 
 ## 👨‍💻 Developer
 Krish Verma — CodeAlpha Internship
+## 📸 Screenshots
+Below are some example UI screenshots of the chatbot:
+
+![GUI Screenshot](screenshots/Screenshot_2025-11-30_003211.png)
+![Console Screenshot](screenshots/Screenshot_2025-11-30_003633.png)
 
