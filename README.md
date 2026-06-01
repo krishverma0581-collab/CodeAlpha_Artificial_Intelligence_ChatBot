@@ -1,9 +1,9 @@
-# CodeAlpha_Artificial_Intelligence_ChatBot
+#Artificial_Intelligence_ChatBot
 AI Chatbot built in Java using NLP techniques, learning mode, and a Swing-based GUI. Internship project for CodeAlpha.
 
-# 🤖 Artificial Intelligence Chatbot – Java | CodeAlpha Internship Project
+# 🤖 Artificial Intelligence Chatbot – Java |
 
-This project is a Java-based AI Chatbot developed as part of the CodeAlpha Internship.  
+This project is a Java-based AI chatbot.  
 The chatbot uses Natural Language Processing (NLP) techniques and machine learning–style similarity scoring to interact with users.
 
 ## ✨ Features
@@ -28,7 +28,7 @@ You: what is your name
 Bot: hii there, I am candis, your java learning chatbot.
 
 ## 👨‍💻 Developer
-Krish Verma — CodeAlpha Internship
+Krish Verma
 ## 📸 Screenshots
 Below are some example UI screenshots of the chatbot:
 
